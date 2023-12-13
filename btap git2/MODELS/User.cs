@@ -8,5 +8,6 @@ namespace btap_git2.MODELS
 {
     internal class User
     {
+        public int MSSV { get; set; }
     }
 }
